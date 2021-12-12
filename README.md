@@ -1,4 +1,4 @@
 # twitterClone-Warbler
 
 ## Deployed on Heroku
-  -[Warbler](https://zach-twitter-clone.herokuapp.com/)
+[Warbler](https://zach-twitter-clone.herokuapp.com/)
